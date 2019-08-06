@@ -1,0 +1,50 @@
+- name: 概述
+  href: index.md
+- name: 入门
+  items:
+    - name: 机器人开发人员
+      href: getting-started/bots.md
+    - name: Windows 开发人员
+      href: getting-started/windows.md
+    - name: Outlook 开发人员
+      href: getting-started/outlook.md
+- name: 创作卡
+  items:
+    - name: 入门
+      href: authoring-cards/getting-started.md
+    - name: 卡架构
+      href: 'https://adaptivecards.io/explorer'
+    - name: 语速
+      href: authoring-cards/speech.md
+    - name: 文本功能
+      href: authoring-cards/text-features.md
+- name: 呈现卡
+  items:
+    - name: 入门
+      href: rendering-cards/getting-started.md
+    - name: 操作
+      href: rendering-cards/actions.md
+    - name: 主机配置
+      href: rendering-cards/host-config.md
+    - name: 扩展性
+      href: rendering-cards/extensibility.md
+    - name: 呈现器状态
+      href: rendering-cards/renderer-status.md
+    - name: 实现呈现器
+      href: rendering-cards/implement-a-renderer.md
+- name: SDK
+  items:
+    - name: 创作卡
+      href: sdk/authoring-cards/toc.yml
+    - name: 呈现卡
+      href: sdk/rendering-cards/toc.yml
+- name: 资源
+  items:
+    - name: 规定
+      href: resources/principles.md
+    - name: 合作伙伴
+      href: resources/partners.md
+    - name: 工具
+      href: resources/tools.md
+    - name: 路线图
+      href: resources/future.md
